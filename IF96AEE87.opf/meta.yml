@@ -1,0 +1,78 @@
+id: IF96AEE87
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:29:58.845385'
+last_modified: '2022-06-19T17:29:58.845390'
+parser: null
+source_metadata:
+  title: Ten Royal Sūtras
+  language: it
+  description: 'A collection related to the ten royal sūtras or ten sūtras of the
+    king (rgyal po''i mdo bcu), which are said to have been translated upon the advice
+    of Padmasambhava for Emperor Tri Songdetsen''s daily recitation:'
+  volume:
+    fF352:
+      title: Outline of the Ten Royal Sūtras
+      base_file: fF352.txt
+      order: 1
+      parent: Outlines
+    f6546:
+      title: The Bodhisattva’s Confession of Downfalls (Nyingma Version)
+      base_file: f6546.txt
+      order: 2
+      parent: Sūtras
+    f7C4E:
+      title: The Dhāraṇī of Stream of Wealth (Vasudhārā)
+      base_file: f7C4E.txt
+      order: 3
+      parent: Sūtras
+    f3DA0:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      base_file: f3DA0.txt
+      order: 4
+      parent: Sūtras
+    f44F4:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      base_file: f44F4.txt
+      order: 5
+      parent: Sūtras
+    fF224:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      base_file: fF224.txt
+      order: 6
+      parent: Sūtras
+    fE0BE:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      base_file: fE0BE.txt
+      order: 7
+      parent: Sūtras
+    f947F:
+      title: The Noble Mahāyāna Sūtra entitled The Wisdom of the Hour of Death
+      base_file: f947F.txt
+      order: 8
+      parent: Sūtras
+    f3229:
+      title: The Perfection of Wisdom, Mother of All Tathāgatas, ‘In One Syllable’
+      base_file: f3229.txt
+      order: 9
+      parent: Sūtras
+    fB94A:
+      title: The Sūtra of Boundless Life and Wisdom
+      base_file: fB94A.txt
+      order: 10
+      parent: Sūtras
+    f847E:
+      title: Vajravidāraṇa Dhāraṇī (Nyingma Version)
+      base_file: f847E.txt
+      order: 11
+      parent: Sūtras
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
